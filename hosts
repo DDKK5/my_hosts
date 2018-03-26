@@ -20,7 +20,6 @@
 203.69.138.223 blzddist1-a.akamaihd.net
 
 #屏蔽微软监控
-0.0.0.0 telemetry.appex.bing.net:443
 0.0.0.0 a.ads1.msn.com 
 0.0.0.0 a.ads2.msads.net 
 0.0.0.0 a.ads2.msn.com 
