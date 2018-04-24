@@ -15,9 +15,6 @@
 :: ulog.imap.baidu.com
 :: newloc.map.n.shifen.com
 
-# steam-hosts
-23.50.18.229 steamcommunity.com
-203.69.138.223 blzddist1-a.akamaihd.net
 
 #屏蔽微软监控
 0.0.0.0 a.ads1.msn.com 
